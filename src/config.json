@@ -1,0 +1,8 @@
+{
+  "FilePath": "/tmp/",
+  "BucketName": "test-live",
+  "ObjectName": "big.txt",
+  "Endpoint": "http://10.0.1.100",
+  "AccessKey": "your_access_key",
+  "SecretKey": "your_secret_key"
+}
